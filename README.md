@@ -5,4 +5,7 @@ A list of awesome stuff I found.
 [Editor.js - https://editorjs.io/](https://editorjs.io/)
 
 ### Icons
- [ZondIcons - https://www.zondicons.com/](https://www.zondicons.com/)
+[ZondIcons - https://www.zondicons.com/](https://www.zondicons.com/)
+
+### MISC
+[Namelix - https://namelix.com/](https://namelix.com/) - AI powered business name generator
