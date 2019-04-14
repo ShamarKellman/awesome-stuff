@@ -9,6 +9,7 @@ A list of awesome stuff I found.
 
 ### Icons
 [ZondIcons - https://www.zondicons.com/](https://www.zondicons.com/)
+[Icon8 - https://icons8.com/](https://icons8.com/)
 
 ### UX/UI
 [Checklist Design - https://www.checklist.design/](https://www.checklist.design/) - A collection of the best UX and UI practices.  
