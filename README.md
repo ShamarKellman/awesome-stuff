@@ -1,6 +1,9 @@
 # Awesome Stuff
 A list of awesome stuff I found.
 
+### Laravel Stuff
+[Schedule - https://github.com/rennokki/schedule](https://github.com/rennokki/schedule)
+
 ### JS Libraries 
 [Typed.js - https://mattboldt.com/demos/typed-js/](https://mattboldt.com/demos/typed-js/)
 
