@@ -9,6 +9,7 @@ A list of awesome stuff I found.
 
 ### JS Libraries 
 [Typed.js - https://mattboldt.com/demos/typed-js/](https://mattboldt.com/demos/typed-js/)
+[Scene Js - http://daybrush.com/scenejs/](http://daybrush.com/scenejs/)
 
 ### Rich Text Editors
 [Editor.js - https://editorjs.io/](https://editorjs.io/)
