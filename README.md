@@ -7,6 +7,9 @@ A list of awesome stuff I found.
 ### Database Design
 [http://www.databaseanswers.org/data_models/index.htm](http://www.databaseanswers.org/data_models/index.htm)  
 
+### Playgrounds
+[Tailwind CSS Playground - https://tailwind.run/](https://tailwind.run/)  
+
 ### JS Libraries 
 [Typed.js - https://mattboldt.com/demos/typed-js/](https://mattboldt.com/demos/typed-js/)  
 [Scene Js - http://daybrush.com/scenejs/](http://daybrush.com/scenejs/)  
