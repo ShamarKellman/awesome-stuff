@@ -3,6 +3,7 @@ A list of awesome stuff I found.
 
 ### Laravel Stuff
 [Schedule - https://github.com/rennokki/schedule](https://github.com/rennokki/schedule)
+[Laravel Trick - https://laravel-tricks.com/](https://laravel-tricks.com/) - A site that show tips for Laravel
 
 ### Database Design
 [http://www.databaseanswers.org/data_models/index.htm](http://www.databaseanswers.org/data_models/index.htm)  
