@@ -10,6 +10,7 @@ A list of awesome stuff I found.
 
 ### Database Design
 [http://www.databaseanswers.org/data_models/index.htm](http://www.databaseanswers.org/data_models/index.htm)  
+[https://drawsql.app/](https://drawsql.app/) - Create, visualize and collaborate on your database entity relationship diagrams. 
 
 ### Playgrounds
 [Tailwind CSS Playground - https://tailwind.run/](https://tailwind.run/)  
