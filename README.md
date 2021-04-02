@@ -23,8 +23,9 @@ A list of awesome stuff I found.
 [Editor.js - https://editorjs.io/](https://editorjs.io/)
 
 ### Icons
-[ZondIcons - https://www.zondicons.com/](https://www.zondicons.com/)
-[Icon8 - https://icons8.com/](https://icons8.com/)
+[ZondIcons - https://www.zondicons.com/](https://www.zondicons.com/)  
+[Icon8 - https://icons8.com/](https://icons8.com/)  
+[The Noun Project - https://thenounproject.com/](https://thenounproject.com/)  
 
 ### UX/UI
 [Checklist Design - https://www.checklist.design/](https://www.checklist.design/) - A collection of the best UX and UI practices.  
