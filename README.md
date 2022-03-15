@@ -6,7 +6,7 @@ A list of awesome stuff I found.
 [Laravel Tricks - https://laravel-tricks.com/](https://laravel-tricks.com/) - A site that show tips for Laravel
 
 ### Server Configuration
-[NGINX Config Generator](https://www.digitalocean.com/community/tools/nginx#?)
+[NGINX Config Generator](https://www.digitalocean.com/community/tools/nginx#?)  
 [LEMP STACK](https://lempstack.com/)
 
 ### Database Design
