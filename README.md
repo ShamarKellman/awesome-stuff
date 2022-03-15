@@ -7,6 +7,7 @@ A list of awesome stuff I found.
 
 ### Server Configuration
 [NGINX Config Generator](https://www.digitalocean.com/community/tools/nginx#?)
+[LEMP STACK](https://lempstack.com/)
 
 ### Database Design
 [http://www.databaseanswers.org/data_models/index.htm](http://www.databaseanswers.org/data_models/index.htm)  
